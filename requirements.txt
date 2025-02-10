@@ -1,7 +1,16 @@
+# excelTranslate 项目所需的库
 pandas
 numpy
 openpyxl
 python-dotenv
 requests
 deep-translator
+
+# excelPriceView 项目所需的库
+PyQt6
+pandas
+openpyxl
+fuzzywuzzy
+python-Levenshtein
+
 
