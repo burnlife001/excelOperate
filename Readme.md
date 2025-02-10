@@ -6,8 +6,6 @@
 
 - pandas
 - deep-translator
-- azure-cognitiveservices-translatortext
-- msrest
 
 你可以通过以下命令安装这些依赖：
 
