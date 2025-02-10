@@ -1,4 +1,7 @@
 pandas
-deep-translator
+numpy
 openpyxl
+python-dotenv
+requests
+deep-translator
 
